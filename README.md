@@ -1,1 +1,2 @@
-# Refugee-Paper-Abstract-Relevance
+# Random Forest Classifier for Text Classification
+This code uses a Random Forest Classifier for text classification. The goal is to classify the relevance of paper abstracts to a research project from a dataset containing 2297 articles from an Academic Search Complete query about attitudes toward refugees and migrants. 
